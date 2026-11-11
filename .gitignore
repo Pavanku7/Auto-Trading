@@ -1,0 +1,13 @@
+# Secrets — never commit
+config.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.idea/
+
+# Runtime output
+*_log.csv
+*_report.json
